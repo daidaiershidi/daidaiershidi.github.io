@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year master's student at Dalian University of Technology (DUT), where I graduated from DUT with a bachelor's degree in computer science. 
+I am currently a second-year master's student at Dalian University of Technology (DUT), where I obtained my bachelor's degree in computer science.
 
-My research interests mainly include human-centered behavior understanding, including video understanding, and action understanding. In addition, I am also very interested in causal learning, self-supervision methods, which they are a good perspective for understanding most tasks, but I have no related results yet. Recently, I have focused on generative models and their applications in the area of action understanding, working to facilitate AI understanding and assistance of human behavior."
+
+My research interests during my master's mainly include human-centered action understanding, based on video or skeletal modalities. In addition, I am also interested in causal learning and self-supervised methods, which are good perspectives for understanding most tasks, but I do not have any results yet. Recently, I have focused on generative models and their applications in action understanding, aiming to promote the understanding of human behavior and assistance to humans themselves by artificial intelligence algorithms.
 
 📢📢📢 I am looking for a Ph.D. position (2024 Fall). If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to contact me. 😊
 
