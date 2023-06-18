@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -27,32 +27,82 @@ I am currently a second year master's student at Dalian University of Technology
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper_spl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spatial Focus Attention for Fine-Grained Skeleton-Based Action Tasks](https://ieeexplore.ieee.org/document/9860042)
 
 **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**IEEE SPL** | [[**Paper**]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- **IEEE SPL**
-- Dynamic skeletal data has been widely studied for human action tasks due to its high-level semantic information and less data than RGB features. However, attention-based previous methods fail to focus on the local grouped joint dependence of the human body, which is vital to distinguishing various actions in fine-grained tasks, such as skeletal action segmentation and recognition. This work proposes spatial focus attention for the fine-grained skeleton-based action tasks. Specifically, we decouple the attention map to enhance the grouped joint dependence adaptively by the decouple probability. To further focus on local grouped dependence, the tree structural attention maps can be built by hierarchical decoupling and guide the model to focus on complementary local dependence in the different leaf nodes. Our proposed approach achieves state-of-the-art performance on fine-grained skeleton-based human action segmentation tasks (MCFS-22) and recognition tasks (FSD-10). Besides, on the coarse-grained dataset (NTU-60), the proposed spatial focus attention also achieves outstanding performance.
+- The previous methods fail to focus on the local grouped joint dependence of the human body, which is vital to distinguishing various actions in fine-grained tasks. We propose the novel spatial focus attention to enhance multiple complementary grouped joint dependence
+for fine-grained tasks through the tree structural attention maps. 
+- The extensive experimental results highlight the benefits of spatial focus attention, which outperforms state-ofthe-art methods significantly on fine-grained skeleton-based action recognition (FSD-10) and segmentation benchmarks (MCFS-22). Besides, our proposed spatial focus attention also achieves outstanding performance on the NTU-60 dataset.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf)
+
+**Kaiyuan Liu**, **Yunheng Li**, Shenglan Liu, Chenwei Tan, Zihang Shao
+
+**CVPR 2023** | [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Slides**]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Poster**]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+- We study the label bias in the TSTAS task and propose a novel D-TSTAS framework to reduce both focus and representation bias.
+- Our masked timestamp predictions approach is the first attempt to alleviate the dependencies on timestamps, promoting the model to capture contextual information. Coupling MTP and Naive as a general solution is used to initialize the model in the TSTAS.
+- Compared to sparsely annotated timestamps, our center-oriented timestamp expansion approach progressively expands pseudo-timestamp groups to contain semantic-rich motion representations of action segments.
+- The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
+
+
+# 📝 Publications 
+
+
+
+[Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation](https://ieeexplore.ieee.org/document/10148994/)
+
+Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao
+
+**IEEE TCSVT** | [[**Paper**]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+[Hierarchical Neighbors Embedding](https://ieeexplore.ieee.org/document/9956975)
+
+Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao
+
+**IEEE TNNLS** | [[**Paper**]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+[Efficient Two-Step Networks for Temporal Action Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998)
+
+Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
+
+**Neurocomputing** | [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Master
+  - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th 
+  - **2021.09** CCF International AIOps Challenge, runner-up 
+- Undergraduate
+  - **2021** Outstanding Graduates (5%)
+  - **2020** Outstanding Academic Performance First Scholarship (5%)
+  - **2019** The Fourth Next Generation Internet Technology Innovation Competition, 3rd Runner-up
+  - **2018, 2019** Outstanding Academic Performance Second Scholarship (15%)
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2021.09 - 2023.06 (now)**, Master, CS, Dalian University of Technology, GPA 3.73 / 4.00
+- **2017.09 - 2021.06**, Undergraduate, CS, Dalian University of Technology, GPA 3.80 / 4.00
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime.
+- **2021.12 - 2022.02**, PaddleVideo, Baidu.
