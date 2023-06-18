@@ -60,7 +60,7 @@ for fine-grained tasks through the tree structural attention maps.
 - The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
 
 
-# 📝 Publications 
+# 📝 Others 
 
 
 
