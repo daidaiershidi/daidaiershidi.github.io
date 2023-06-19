@@ -37,7 +37,7 @@ During my master's, my research interests mainly focused on human-centered actio
 
 **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu
 
-**IEEE SPL** | [[**Paper**]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**IEEE SPL** [[**Paper**]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 The previous methods fail to focus on the local grouped joint dependence of the human body, which is vital to distinguishing various actions in fine-grained tasks. We propose the novel spatial focus attention to enhance multiple complementary grouped joint dependence for fine-grained tasks through the tree structural attention maps. 
 <!-- - The extensive experimental results highlight the benefits of spatial focus attention, which outperforms state-of-the-art methods significantly on fine-grained skeleton-based action recognition (FSD-10) and segmentation benchmarks (MCFS-22). Besides, our proposed spatial focus attention also achieves outstanding performance on the NTU-60 dataset. -->
@@ -54,7 +54,7 @@ The previous methods fail to focus on the local grouped joint dependence of the 
 
 **Kaiyuan Liu**, **Yunheng Li**, Shenglan Liu, Chenwei Tan, Zihang Shao
 
-**CVPR 2023** | [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Slides**]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Poster**]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**CVPR 2023** [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Slides**]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Poster**]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 We study the label bias in the TSTAS task and propose a novel D-TSTAS framework to reduce both focus and representation bias. The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
@@ -76,21 +76,21 @@ We study the label bias in the TSTAS task and propose a novel D-TSTAS framework 
 
 Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao
 
-**IEEE TCSVT** | [[**Paper**]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**IEEE TCSVT** [[**Paper**]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 [Hierarchical Neighbors Embedding](https://ieeexplore.ieee.org/document/9956975)
 
 Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao
 
-**IEEE TNNLS** | [[**Paper**]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**IEEE TNNLS** [[**Paper**]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 [Efficient Two-Step Networks for Temporal Action Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998)
 
 Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
-**Neurocomputing** | [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Neurocomputing** [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 # 🎖 Honors and Awards
 - Master
