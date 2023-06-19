@@ -112,6 +112,6 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2023.06 - 2023.09**, Hangzhou AI Lab, NetEase.
+- **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase.
 - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
