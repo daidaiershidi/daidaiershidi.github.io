@@ -92,6 +92,14 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
 **Neurocomputing** [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+
+<!-- [Double Attention Network Based on Sparse Sampling](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG)
+
+Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
+
+**ICME 2022** [[**Paper**]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+
 # 🎖 Honors and Awards
 - Master
   - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th 
@@ -112,6 +120,6 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase.
-- **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime.
+<!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
+<!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
