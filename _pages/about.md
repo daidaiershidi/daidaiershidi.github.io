@@ -112,7 +112,7 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
 
 # 📖 Educations
-- **2021.09 - 2023.06 (now)**, Master, CS, Dalian University of Technology, GPA 3.73 / 4.00
+- **2021.09 - 2023.06**, Master, CS, Dalian University of Technology, GPA 3.73 / 4.00
 - **2017.09 - 2021.06**, Undergraduate, CS, Dalian University of Technology, GPA 3.80 / 4.00
 
 <!-- # 💬 Invited Talks
@@ -122,5 +122,6 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 # 💻 Internships
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
+- **2023.08 - **, 3D-Digital-Content-Generation, Shanghai AI Lab.
 - **2023.05 - 2023.07**, Hangzhou AI Lab, NetEase.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
