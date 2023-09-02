@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master's student at Dalian University of Technology (DUT), where I obtained my bachelor's degree in computer science.
+I am currently a second-year master's student at Dalian University of Technology (DUT), where I received my bachelor's degree in computer science.
 
+During my master's degree, my research focus is primarily on human-centered action understanding using video or skeletal data. Additionally, I am interested in causal learning and self-supervised methods, which provide valuable perspectives for understanding most tasks. Recently, I have been exploring generative modeling and its application to human-related understanding tasks, with the aim of providing assistance to humans in daily life through AI algorithms.
 
-During my master's, my research interests mainly focused on human-centered action understanding, based on video or skeletal modalities. In addition, I am also interested in causal learning and self-supervised methods, which are good perspectives for understanding most tasks. Recently, I have focused on generative models and their applications in action understanding, aiming to promote the understanding of human behavior and assistance to humans themselves by artificial intelligence algorithms.
+📢📢📢 I am seeking a PhD position (Fall 2024). Please feel free to contact me if you would like to discuss potential opportunities or learn more about my qualifications. 😃
 
-📢📢📢 I am looking for a Ph.D. position (2024 Fall). If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to contact me. 😃
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,7 +39,7 @@ During my master's, my research interests mainly focused on human-centered actio
 
 **IEEE SPL** [[**Paper**]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-The previous methods fail to focus on the local grouped joint dependence of the human body, which is vital to distinguishing various actions in fine-grained tasks. We propose the novel spatial focus attention to enhance multiple complementary grouped joint dependence for fine-grained tasks through the tree structural attention maps. 
+Previous methods fail to focus on the local grouped joint dependence of the human body, which is crucial for distinguishing various actions in fine-grained tasks. To address this issue, we propose a novel spatial focus attention mechanism that enhances multiple complementary grouped joint dependencies for fine-grained tasks through tree structural attention maps. 
 <!-- - The extensive experimental results highlight the benefits of spatial focus attention, which outperforms state-of-the-art methods significantly on fine-grained skeleton-based action recognition (FSD-10) and segmentation benchmarks (MCFS-22). Besides, our proposed spatial focus attention also achieves outstanding performance on the NTU-60 dataset. -->
 
 </div>
@@ -57,7 +57,7 @@ The previous methods fail to focus on the local grouped joint dependence of the 
 **CVPR 2023** [[**Paper**]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Slides**]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[**Poster**]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
-We study the label bias in the TSTAS task and propose a novel D-TSTAS framework to reduce both focus and representation bias. The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
+We discuss label bias in the timestamp-supervised temporal action segmentation (TSTAS) task and propose a novel Debiasing-TSTAS framework to reduce both focus and representation bias. The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
 <!-- - Our masked timestamp predictions approach is the first attempt to alleviate the dependencies on timestamps, promoting the model to capture contextual information. Coupling MTP and Naive as a general solution is used to initialize the model in the TSTAS. -->
 <!-- - Compared to sparsely annotated timestamps, our center-oriented timestamp expansion approach progressively expands pseudo-timestamp groups to contain semantic-rich motion representations of action segments. -->
 <!-- - The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets. -->
@@ -112,8 +112,8 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
 
 # 📖 Educations
-- **2021.09 - 2023.06**, Master, CS, Dalian University of Technology, GPA 3.73 / 4.00
-- **2017.09 - 2021.06**, Undergraduate, CS, Dalian University of Technology, GPA 3.80 / 4.00
+- **2021.09 - 2023.06**, Master, CS, Dalian University of Technology, GPA 3.70 / 4.00
+- **2017.09 - 2021.06**, Undergraduate, CS, Dalian University of Technology, GPA 3.79 / 4.00
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
