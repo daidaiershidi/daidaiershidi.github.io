@@ -126,7 +126,7 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 - **2023.05 - 2023.07**, Human-Motion-Generation, Hangzhou AI Lab, NetEase.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
 
-# 👥 Public Services
+# 👥 Services
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
 - **Conference**, PRCV'23.
