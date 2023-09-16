@@ -28,7 +28,7 @@ During my master's degree, my research focus is primarily on human-centered acti
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📚 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,7 +68,7 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 
 
 
-# 📝 Others 
+# 📃 Others
 
 
 
@@ -100,7 +100,7 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 **ICME 2022** [[**Paper**]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - Master
   - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th 
   - **2021.09** CCF International AIOps Challenge, runner-up 
@@ -111,7 +111,7 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
   - **2018, 2019** Outstanding Academic Performance Second Scholarship (15%)
 
 
-# 📖 Educations
+# 🎓 Educations
 - **2021.09 - 2023.06**, Master, CS, Dalian University of Technology, GPA 3.70 / 4.00
 - **2017.09 - 2021.06**, Undergraduate, CS, Dalian University of Technology, GPA 3.79 / 4.00
 
@@ -119,9 +119,15 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 💼 Internships
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
 - **2023.08 - now**, Text-to-Human-Generation, Shanghai AI Lab.
 - **2023.05 - 2023.07**, Human-Motion-Generation, Hangzhou AI Lab, NetEase.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
+
+# 👥 Public Services
+<!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
+<!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
+- **Conference**, PRCV'23.
+- **Journal**, TCSVT, Neurocomputing.
