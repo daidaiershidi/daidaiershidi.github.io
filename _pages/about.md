@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master's student at Dalian University of Technology (DUT), where I received my bachelor's degree in computer science.
+I am currently a third-year master's student at Dalian University of Technology (DUT), where I received my bachelor's degree in computer science.
 
 During my master's degree, my research focus is primarily on human-centered action understanding using video or skeletal data. Additionally, I am interested in causal learning and self-supervised methods, which provide valuable perspectives for understanding most tasks. Recently, I have been exploring generative modeling and its application to human-related understanding tasks, with the aim of providing assistance to humans in daily life through AI algorithms.
 
