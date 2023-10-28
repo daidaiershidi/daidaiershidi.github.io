@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year master's student at Dalian University of Technology (DUT), where I received my bachelor's degree in computer science.
+I am currently in the third year of my master's program at Dalian University of Technology (DUT), where I earned my bachelor's degree in computer science.
 
-During my master's degree, my research focus is primarily on human-centered action understanding using video or skeletal data. Additionally, I am interested in causal learning and self-supervised methods, which provide valuable perspectives for understanding most tasks. Recently, I have been exploring generative modeling and its application to human-related understanding tasks, with the aim of providing assistance to humans in daily life through AI algorithms.
+Throughout my master's program, I have primarily focused my research on understanding human actions from video, with a strong emphasis on human-centered approaches. Additionally, I have a keen interest in causal learning and self-supervised methods, which offer valuable perspectives for tackling a wide range of tasks. Recently, I have been delving into diffusion model and its application to tasks related to human understanding, aiming to develop AI algorithms that can assist people in their daily lives.
 
-📢📢📢 I am seeking a PhD position (Fall 2024). Please feel free to contact me if you would like to discuss potential opportunities or learn more about my qualifications. 😃
+📢📢📢 I am actively pursuing a PhD opportunity for the Fall of 2024. Please feel free to contact me if you would like to discuss potential opportunities or learn more about my qualifications (You can reach me via WeChat at lcxlcxlky). Thank you! 😃
 
 
 <!-- # 🔥 News
@@ -102,13 +102,15 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
 # 🏆 Honors and Awards
 - Master
-  - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th 
+  - **2023.08** Outstanding Master Student (Top 5%)
+  - **2023.07** Aviation Industry Group of China - Shenyang Luo Yang Inspirational Scholarship (Top 1%)
+  - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th Place
   - **2021.09** CCF International AIOps Challenge, runner-up 
 - Undergraduate
-  - **2021** Outstanding Graduates (5%)
-  - **2020** Outstanding Academic Performance First Scholarship (5%)
+  - **2021** Outstanding Graduates (Top 5%)
+  - **2020** Outstanding Academic Performance First Scholarship (Top 5%)
   - **2019** The Fourth Next Generation Internet Technology Innovation Competition, 3rd Runner-up
-  - **2018, 2019** Outstanding Academic Performance Second Scholarship (15%)
+  - **2018, 2019** Outstanding Academic Performance Second Scholarship (Top 15%)
 
 
 # 🎓 Educations
