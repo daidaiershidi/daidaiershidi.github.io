@@ -103,7 +103,7 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 # 🏆 Honors and Awards
 - Master
   - **2023.08** DUT Outstanding Master Student (Top 5%)
-  - **2023.07** Aviation Industry Group of China - Shenyang Luo Yang Inspirational Scholarship (Top 1%)
+  - **2023.07** China Aviation Industry Group - ShenFei Luoyang Inspirational Scholarship (Top 1%)
   - **2022.08** ACM MM Workshop: Person in Context, MTVG track, 6th Place
   - **2021.09** CCF International AIOps Challenge, runner-up 
 - Undergraduate
