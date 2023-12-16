@@ -93,33 +93,33 @@ Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 **Neurocomputing** [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
-<!-- [Double Attention Network Based on Sparse Sampling](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG)
+[Double Attention Network Based on Sparse Sampling](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG)
 
 Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
 
-**ICME 2022** [[**Paper**]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**ICME 2022** [[**Paper**]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
-<!-- [Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition](https://arxiv.org/abs/2306.15321)
+[Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition](https://arxiv.org/abs/2306.15321)
 
 Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang
 
-**Arxiv** [[**Paper**]](https://arxiv.org/abs/2306.15321) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**Arxiv** [[**Paper**]](https://arxiv.org/abs/2306.15321) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
-<!-- [Cascade regression based on extreme learning machine for face alignment](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1)
+[Cascade regression based on extreme learning machine for face alignment](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1)
 
 Caifeng Liu, Lin Feng, Huibing Wang, Shenglan Liu, **Kaiyuan Liu**
 
-**JEI** [[**Paper**]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**JEI** [[**Paper**]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 
-<!-- [Neural Method for Explicit Mapping of Weighted Locally Linear Embedding in Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9170440)
+[Neural Method for Explicit Mapping of Weighted Locally Linear Embedding in Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9170440)
 
 Shenglan Liu, Xiang Liu, Yang Wang, Qing Yuan, Huihua Guan, **Kaiyuan Liu**
 
-**ISKE 2019** [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9170440) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+**ISKE 2019** [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9170440) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 # 🏆 Honors and Awards
 - Master
