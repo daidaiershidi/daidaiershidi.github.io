@@ -30,6 +30,7 @@ Throughout my master's program, I have primarily focused my research on understa
 
 # 📚 Publications
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_spl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +41,7 @@ Throughout my master's program, I have primarily focused my research on understa
 **IEEE SPL** [[**Paper**]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Previous methods fail to focus on the local grouped joint dependence of the human body, which is crucial for distinguishing various actions in fine-grained tasks. To address this issue, we propose a novel spatial focus attention mechanism that enhances multiple complementary grouped joint dependencies for fine-grained tasks through tree structural attention maps. 
-<!-- - The extensive experimental results highlight the benefits of spatial focus attention, which outperforms state-of-the-art methods significantly on fine-grained skeleton-based action recognition (FSD-10) and segmentation benchmarks (MCFS-22). Besides, our proposed spatial focus attention also achieves outstanding performance on the NTU-60 dataset. -->
+<!-- - The extensive experimental results highlight the benefits of spatial focus attention, which outperforms state-of-the-art methods significantly on fine-grained skeleton-based action recognition (FSD-10) and segmentation benchmarks (MCFS-22). Besides, our proposed spatial focus attention also achieves outstanding performance on the NTU-60 dataset. 
 
 </div>
 </div>
@@ -60,66 +61,56 @@ Previous methods fail to focus on the local grouped joint dependence of the huma
 We discuss label bias in the timestamp-supervised temporal action segmentation (TSTAS) task and propose a novel Debiasing-TSTAS framework to reduce both focus and representation bias. The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets.
 <!-- - Our masked timestamp predictions approach is the first attempt to alleviate the dependencies on timestamps, promoting the model to capture contextual information. Coupling MTP and Naive as a general solution is used to initialize the model in the TSTAS. -->
 <!-- - Compared to sparsely annotated timestamps, our center-oriented timestamp expansion approach progressively expands pseudo-timestamp groups to contain semantic-rich motion representations of action segments. -->
-<!-- - The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets. -->
+<!-- - The proposed D-TSTAS not only outperforms state-of-the-art TSTAS approaches but also achieves competitive results compared with fully supervised approaches on three benchmark datasets. 
 
 
 </div>
-</div>
+</div> -->
+
+<!--
+- **CosmicMan: A Text-to-Image Foundation Model for Humans** \
+  Shikai Li*, Jianglin Fu*, **Kaiyuan liu***, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
+  CVPR 2024 [[project]](https://cosmicman-cvpr2024.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  -->
+
+- **Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect** \
+  Junyu Lu, Bo Xu, Xiaokun Zhang, **Kaiyuan Liu**, Dongyu Zhang, Liang Yang, Hongfei Lin \
+  Coling 2024 [[paper]]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- **Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation** \
+  **Kaiyuan Liu***, Yunheng Li*, Shenglan Liu, Chenwei Tan, Zihang Shao \
+  CVPR 2023 [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[Slides]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[Poster]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- **Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation** \
+  Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao \
+  IEEE TCSVT [[Paper]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- **Hierarchical Neighbors Embedding** \
+  Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao \
+  IEEE TNNLS [[Paper]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- **Spatial Focus Attention for Fine-Grained Skeleton-Based Action Tasks** \
+  **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu \
+  IEEE SPL [[Paper]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- **Efficient Two-Step Networks for Temporal Action Segmentation** \
+  Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
+  Neurocomputing [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- **Double Attention Network Based on Sparse Sampling** \
+  Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
+  ICME 2022 [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+- **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
+  Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
+  Arxiv [[Paper]](https://arxiv.org/abs/2306.15321) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 
-# 📃 Others
-
-
-
-[Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation](https://ieeexplore.ieee.org/document/10148994/)
-
-Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao
-
-**IEEE TCSVT** [[**Paper**]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-[Hierarchical Neighbors Embedding](https://ieeexplore.ieee.org/document/9956975)
-
-Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao
-
-**IEEE TNNLS** [[**Paper**]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-[Efficient Two-Step Networks for Temporal Action Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998)
-
-Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
-
-**Neurocomputing** [[**Paper**]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-[Double Attention Network Based on Sparse Sampling](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG)
-
-Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al
-
-**ICME 2022** [[**Paper**]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-[Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition](https://arxiv.org/abs/2306.15321)
-
-Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang
-
-**Arxiv** [[**Paper**]](https://arxiv.org/abs/2306.15321) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-[Cascade regression based on extreme learning machine for face alignment](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1)
-
-Caifeng Liu, Lin Feng, Huibing Wang, Shenglan Liu, **Kaiyuan Liu**
-
-**JEI** [[**Paper**]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-29/issue-4/043002/Cascade-regression-based-on-extreme-learning-machine-for-face-alignment/10.1117/1.JEI.29.4.043002.short?SSO=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-
-
-[Neural Method for Explicit Mapping of Weighted Locally Linear Embedding in Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9170440)
-
-Shenglan Liu, Xiang Liu, Yang Wang, Qing Yuan, Huihua Guan, **Kaiyuan Liu**
-
-**ISKE 2019** [[**Paper**]](https://ieeexplore.ieee.org/abstract/document/9170440) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 # 🏆 Honors and Awards
 - Master
