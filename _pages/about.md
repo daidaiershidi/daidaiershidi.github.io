@@ -70,45 +70,42 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 <!--
 - **CosmicMan: A Text-to-Image Foundation Model for Humans** \
   Shikai Li*, Jianglin Fu*, **Kaiyuan liu***, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
-  CVPR 2024 [[project]](https://cosmicman-cvpr2024.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  -->
+  CVPR 2024   -->
 
 - **Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect** \
   Junyu Lu, Bo Xu, Xiaokun Zhang, **Kaiyuan Liu**, Dongyu Zhang, Liang Yang, Hongfei Lin \
-  Coling 2024 [[paper]]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  Coling 2024
 
 - **Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation** \
   **Kaiyuan Liu***, Yunheng Li*, Shenglan Liu, Chenwei Tan, Zihang Shao \
-  CVPR 2023 [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Reducing_the_Label_Bias_for_Timestamp_Supervised_Temporal_Action_Segmentation_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[Slides]](https://cvpr.thecvf.com/media/cvpr-2023/Slides/21372.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> [[Poster]](https://cvpr.thecvf.com/virtual/2023/poster/21372) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  CVPR 2023 
 
 - **Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation** \
   Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao \
-  IEEE TCSVT [[Paper]](https://ieeexplore.ieee.org/document/10148994/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  IEEE TCSVT 
 
 
 - **Hierarchical Neighbors Embedding** \
   Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao \
-  IEEE TNNLS [[Paper]](https://ieeexplore.ieee.org/document/9956975) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
+  IEEE TNNLS 
 
 - **Spatial Focus Attention for Fine-Grained Skeleton-Based Action Tasks** \
   **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu \
-  IEEE SPL [[Paper]](https://ieeexplore.ieee.org/document/9860042) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  IEEE SPL 
 
 
 - **Efficient Two-Step Networks for Temporal Action Segmentation** \
   Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
-  Neurocomputing [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006998) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
+  Neurocomputing 
 
 - **Double Attention Network Based on Sparse Sampling** \
   Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
-  ICME 2022 [[Paper]](https://www.computer.org/csdl/proceedings-article/icme/2022/09859819/1G9EAL2K8JG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  ICME 2022 
 
 
 - **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
   Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
-  Arxiv [[Paper]](https://arxiv.org/abs/2306.15321) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
+  Arxiv 
 
 
 
