@@ -133,12 +133,12 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 # 💼 Internships
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
-- **2023.08 - now**, Text-to-Human-Generation, Shanghai AI Lab.
+- **2023.08 - 2023.12**, Text-to-Human-Generation, Shanghai AI Lab.
 - **2023.05 - 2023.07**, Human-Motion-Generation, Hangzhou AI Lab, NetEase.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
 
 # 👥 Services
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
-- **Conference**, PRCV'23.
+- **Conference**, PRCV'23/24.
 - **Journal**, TCSVT, Neurocomputing.
