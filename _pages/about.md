@@ -77,7 +77,7 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
   Coling 2024
 
 - **Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation** \
-  **Kaiyuan Liu***, Yunheng Li*, Shenglan Liu, Chenwei Tan, Zihang Shao \
+  **Kaiyuan Liu\***, Yunheng Li\*, Shenglan Liu, Chenwei Tan, Zihang Shao \
   CVPR 2023 
 
 - **Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation** \
@@ -105,7 +105,7 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 
 - **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
   Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
-  Arxiv 
+  Under Review
 
 
 
