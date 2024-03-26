@@ -72,6 +72,10 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
   Shikai Li, Jianglin Fu, **Kaiyuan liu**, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
   CVPR 2024   
 
+- **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
+  Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
+  TNNLS
+
 - **Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect** \
   Junyu Lu, Bo Xu, Xiaokun Zhang, **Kaiyuan Liu**, Dongyu Zhang, Liang Yang, Hongfei Lin \
   Coling 2024
@@ -84,7 +88,6 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
   Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao \
   TCSVT 
 
-
 - **Hierarchical Neighbors Embedding** \
   Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao \
   TNNLS 
@@ -92,7 +95,6 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 - **Spatial Focus Attention for Fine-Grained Skeleton-Based Action Tasks** \
   **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu \
   SPL 
-
 
 - **Efficient Two-Step Networks for Temporal Action Segmentation** \
   Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
@@ -102,10 +104,6 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
   Yunheng Li, Zhuben Dong, **Kaiyuan Liu**, Lin Feng, Lianyu Hu, et al \
   ICME 2022 
 
-
-- **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
-  Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
-  TNNLS
 
 
 
