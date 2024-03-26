@@ -82,16 +82,16 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 
 - **Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation** \
   Yunheng Li, **Kaiyuan Liu**, Shenglan Liu, Lin Feng, Hong Qiao \
-  IEEE TCSVT 
+  TCSVT 
 
 
 - **Hierarchical Neighbors Embedding** \
   Shenglan Liu, Yang Yu, **Kaiyuan Liu**, Feilong Wang, Wujun Wen, Hong Qiao \
-  IEEE TNNLS 
+  TNNLS 
 
 - **Spatial Focus Attention for Fine-Grained Skeleton-Based Action Tasks** \
   **Kaiyuan Liu**, Yunheng Li, Yuanfeng Xu, Shuai Liu, Shenglan Liu \
-  IEEE SPL 
+  SPL 
 
 
 - **Efficient Two-Step Networks for Temporal Action Segmentation** \
@@ -105,7 +105,7 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 
 - **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
   Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gaohuang \
-  Under Review
+  TNNLS
 
 
 
