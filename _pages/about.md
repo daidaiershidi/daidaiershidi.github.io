@@ -71,7 +71,7 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 <!--
 - **CosmicMan: A Text-to-Image Foundation Model for Humans** \
   Shikai Li, Jianglin Fu, **Kaiyuan liu**, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
-  CVPR 2024   -->
+  CVPR 2024   --> 
 
 - **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
   Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gao Huang \
