@@ -67,10 +67,10 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 </div>
 </div> -->
 
-<!--
+
 - **CosmicMan: A Text-to-Image Foundation Model for Humans** \
-  Shikai Li*, Jianglin Fu*, **Kaiyuan liu***, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
-  CVPR 2024   -->
+  Shikai Li, Jianglin Fu, **Kaiyuan liu**, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
+  CVPR 2024   
 
 - **Take its Essence, Discard its Dross! Debiasing for Toxic Language Detection via Counterfactual Causal Effect** \
   Junyu Lu, Bo Xu, Xiaokun Zhang, **Kaiyuan Liu**, Dongyu Zhang, Liang Yang, Hongfei Lin \
