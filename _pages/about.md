@@ -21,7 +21,8 @@ I am currently in the third year of my master's program at Dalian University of 
 
 Throughout my master's program, I have primarily focused my research on understanding human actions from video, with a strong emphasis on human-centered approaches. Additionally, I have a keen interest in causal learning and self-supervised methods, which offer valuable perspectives for tackling a wide range of tasks. Recently, I have been delving into diffusion model and its application to tasks related to human understanding, aiming to develop AI algorithms that can assist people in their daily lives.
 
-📢📢📢 I am actively pursuing a PhD opportunity for the Fall of 2024. Please feel free to contact me if you would like to discuss potential opportunities or learn more about my qualifications (You can reach me via WeChat at lcxlcxlky). Thank you! 😃
+<!--
+📢📢📢 I am actively pursuing a PhD opportunity for the Fall of 2024. Please feel free to contact me if you would like to discuss potential opportunities or learn more about my qualifications (You can reach me via WeChat at lcxlcxlky). Thank you! 😃 -->
 
 
 <!-- # 🔥 News
