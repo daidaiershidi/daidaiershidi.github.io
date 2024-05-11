@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaiyuan Liu"
+title                    : ""
 description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kaiyuan Liu"
-  avatar           : "images/11android-chrome-512x512.png"
+  name             : ""
+  avatar           : ""
   bio              : ""
-  location         : "Dalian, China"
+  location         : ""
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IJT2bOcAAAAJ&view_op=list_works&gmla=AOV7GLMwHaMcheTKpCBVrXCWPI3u7n0pFoL4GPwjkhKDIw5Etsl2rYjGOOlp9plghzGaTP7hIMHRpby5O7aeGjLFsyaX_JkQfDMClrZo0fGbEtWaHo1q261gQkeKGsZ-iwyHjkcFTPEN"
-  email            : "1154864382@mail.dlut.edu.com"
+  googlescholar    : ""
+  email            : ""
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daidaiershidi" # e.g., "github username"
+  github           : "" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
