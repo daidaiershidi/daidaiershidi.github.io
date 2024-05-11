@@ -1,2 +1,2 @@
 #!/bin/bash -l
-bundle exec jekyll liveserve1
+bundle exec jekyll liveserve
