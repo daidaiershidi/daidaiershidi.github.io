@@ -142,4 +142,4 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
 <!-- 
 - **Conference**, PRCV'23/24.
-- **Journal**, TCSVT, Neurocomputing.
+- **Journal**, TCSVT, Neurocomputing. -->
