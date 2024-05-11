@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!-- 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -28,7 +28,7 @@ Throughout my master's program, I have primarily focused my research on understa
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+<!-- 
 # 📚 Publications
 
 <!--
@@ -68,10 +68,10 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 </div>
 </div> -->
 
-<!--
+<!-- 
 - **CosmicMan: A Text-to-Image Foundation Model for Humans** \
-  Shikai Li, Jianglin Fu, **Kaiyuan liu**, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
-  CVPR 2024   --> 
+  Shikai Li, Jianglin Fu, **Kaiyuan Liu**, Wentao Wang, Kwan-Yee Lin, Wayne Wu \
+  CVPR 2024   
 
 - **Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition** \
   Shenglan Liu, Yuning Ding, Jinrong Zhang, **Kaiyuan Liu**, Sifan Zhang, Feilong Wang, Gao Huang \
@@ -128,10 +128,11 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+<!-- 
 # 💼 Internships
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
+<!-- 
 - **2023.08 - 2023.12**, Text-to-Human-Generation, Shanghai AI Lab.
 - **2023.05 - 2023.07**, Human-Motion-Generation, Hangzhou AI Lab, NetEase.
 - **2021.12 - 2022.02**, PaddleVideo, Baidu.
@@ -139,5 +140,6 @@ We discuss label bias in the timestamp-supervised temporal action segmentation (
 # 👥 Services
 <!-- - **2023.06 - 2023.09 (now)**, Hangzhou AI Lab, NetEase. -->
 <!-- - **2022.08 - 2022.10**, CCF GetLink Open Source Summer Camp, SenseTime. -->
+<!-- 
 - **Conference**, PRCV'23/24.
 - **Journal**, TCSVT, Neurocomputing.
